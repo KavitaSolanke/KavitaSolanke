@@ -2,8 +2,11 @@
 
 This is My first repository
 
-- Point 1
-- Point 2
+- Introduction
+- Problem Statment
+- EDA
+- Summary
+- Actionable Insights
 
 ___
 
