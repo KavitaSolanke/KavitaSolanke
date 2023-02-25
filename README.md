@@ -1,4 +1,4 @@
-### Hi there 👋
+# 1000 Movies Data Analysis EDA Project 👋
 
 <!--
 **KavitaSolanke/KavitaSolanke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
