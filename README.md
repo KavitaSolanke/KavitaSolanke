@@ -1,15 +1,12 @@
-# 1000 Movies Data Analysis EDA Project 👋
+# My Repo for latest projects at INSAID
 
-This is My first repository
+## Here is the list of Projects
 
-- Introduction
-- Problem Statment
-- EDA
-- Summary
-- Actionable Insights
+1000 Movies data analysis EDA Projects [MOVIE](https://github.com/KavitaSolanke/KavitaSolanke/tree/main/Movie-Project "MOVIE")
 
-___
+Analysis on Facebook data
 
-'''
-Print("HEllo")
-'''
+| MOVIE PROJECT  | [![MOVIE](https://raw.githubusercontent.com/KavitaSolanke/KavitaSolanke/main/Images/movie3.jpg "MOVIE")](https://raw.githubusercontent.com/KavitaSolanke/KavitaSolanke/main/Images/movie3.jpg "MOVIE")  |
+| :------------: | :------------: |
+|  [![FACEBOOK](https://raw.githubusercontent.com/KavitaSolanke/KavitaSolanke/main/Images/FACEBOOK.jpg "FACEBOOK")](https://raw.githubusercontent.com/KavitaSolanke/KavitaSolanke/main/Images/FACEBOOK.jpg "FACEBOOK") | FACEBOOK PROJECT |
+
